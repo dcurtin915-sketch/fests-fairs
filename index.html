@@ -210,6 +210,14 @@ function parseCSV(text){
     else if(fl==='features') f.features = f.features ? f.features + '; ' + value : value;
     else if(fl==='tickets') f.tickets = value;
     else if(fl==='website') f.website = value;
+    else if(cat==='Contact' && fl.startsWith('contact email')){
+      if(!f.emails) f.emails=[];
+      if(value && !f.emails.includes(value)) f.emails.push(value);
+    }
+    else if(cat==='Contact' && fl.startsWith('contact phone')){
+      if(!f.phones) f.phones=[];
+      if(value && !f.phones.includes(value)) f.phones.push(value);
+    }
   }
 
   return Object.entries(fairs).map(([key, f])=>{
@@ -221,6 +229,7 @@ function parseCSV(text){
       name, org:f.org||'', location:f.location||'', when:f.when||'',
       duration:f.duration||'', artists:f.artists||'', attendance:f.attendance||'',
       features:f.features||'', tickets:f.tickets||'', website:f.website||'',
+      emails:f.emails||[], phones:f.phones||[],
       state:st, region, ticketType:tt,
       attendNum:parseNum(f.attendance), artistNum:parseNum(f.artists)
     };
@@ -298,6 +307,8 @@ function renderCards(){
         '<span class="tag tag-region">'+esc(f.region)+'</span>'+
         '<span class="tag '+ticketClass(f.ticketType)+'">'+ticketLabel(f.ticketType)+'</span>'+
       '</div>'+
+      (f.emails.length?'<div class="meta">✉️ '+f.emails.map(e=>'<a href="mailto:'+esc(e)+'">'+esc(e)+'</a>').join(', ')+'</div>':'')+
+      (f.phones.length?'<div class="meta">📞 '+f.phones.map(p=>'<a href="tel:'+esc(p.replace(/[^0-9+]/g,''))+'">'+esc(p)+'</a>').join(', ')+'</div>':'')+
       (f.features?'<div class="features">'+esc(f.features)+'</div>':'')+
       (url?'<div class="link"><a href="'+esc(url)+'" target="_blank" rel="noopener">'+esc(f.website)+' →</a></div>':'')+
     '</div>';

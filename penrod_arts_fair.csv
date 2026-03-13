@@ -1,6 +1,6 @@
 Category,Field,Value,Organization/Event
 Organization,Name,The Penrod Society®,Penrod Arts Fair
-Organization,Type,"501(c)(3) all-volunteer nonprofit",Penrod Arts Fair
+Organization,Type,501(c)(3) all-volunteer nonprofit,Penrod Arts Fair
 Organization,Founded,1967,Penrod Arts Fair
 Organization,Location,"Indianapolis, IN",Penrod Arts Fair
 Organization,EIN,35-6069479,Penrod Arts Fair
@@ -9,7 +9,7 @@ Organization,Assets (2024),"~$1,370,000",Penrod Arts Fair
 Organization,Mission,"Support arts, cultural, and educational institutions in Central Indiana",Penrod Arts Fair
 Organization,Website,penrod.org,Penrod Arts Fair
 Organization,Hosting,Squarespace,Penrod Arts Fair
-Organization,Annual Grants,"$300K+ to ~88 Central Indiana arts orgs",Penrod Arts Fair
+Organization,Annual Grants,$300K+ to ~88 Central Indiana arts orgs,Penrod Arts Fair
 Event,Name,Penrod Arts Fair (flagship),Penrod Arts Fair
 Event,Date,September 5 2026,Penrod Arts Fair
 Event,Venue,"Newfields campus, Indianapolis",Penrod Arts Fair
@@ -47,7 +47,6 @@ Contact,Ticketing Email,tickets@penrod.org,Penrod Arts Fair
 Contact,General Contact,penrod.org/contact-us (select Sponsorship Inquiry),Penrod Arts Fair
 Contact,PR/Media,penrod@dittoepr.com (Dittoe PR),Penrod Arts Fair
 Contact,Volunteer,volunteer@penrod.org,Penrod Arts Fair
-,,,,
 Comparable Fair,Name,Cherry Creek Arts Festival,Cherry Creek Arts Festival
 Comparable Fair,Org,CherryArts (nonprofit),Cherry Creek Arts Festival
 Comparable Fair,Location,"Cherry Creek North, Denver, CO",Cherry Creek Arts Festival
@@ -58,9 +57,10 @@ Comparable Fair,Attendance,350000+,Cherry Creek Arts Festival
 Comparable Fair,Features,"Art, food, music, kids' activities",Cherry Creek Arts Festival
 Comparable Fair,Tickets,Free admission,Cherry Creek Arts Festival
 Comparable Fair,Website,cherryarts.org,Cherry Creek Arts Festival
-,,,,
+Contact,Contact Email,hello@cherryarts.org,Cherry Creek Arts Festival
+Contact,Contact Phone,(303) 355-2787,Cherry Creek Arts Festival
 Comparable Fair,Name,Ann Arbor Art Fair,Ann Arbor Art Fair
-Comparable Fair,Org,"3 independent nonprofit fairs combined",Ann Arbor Art Fair
+Comparable Fair,Org,3 independent nonprofit fairs combined,Ann Arbor Art Fair
 Comparable Fair,Location,"Downtown Ann Arbor, MI",Ann Arbor Art Fair
 Comparable Fair,When,"July 16–18, 2026",Ann Arbor Art Fair
 Comparable Fair,Duration,3 days,Ann Arbor Art Fair
@@ -69,9 +69,16 @@ Comparable Fair,Attendance,500000,Ann Arbor Art Fair
 Comparable Fair,Features,"Largest juried art fair in the US, 3 concurrent fairs",Ann Arbor Art Fair
 Comparable Fair,Tickets,Free admission,Ann Arbor Art Fair
 Comparable Fair,Website,theannarborartfair.com,Ann Arbor Art Fair
-,,,,
+Contact,Contact Email,akline@artfair.org,Ann Arbor Art Fair
+Contact,Contact Email 2,allison@theguild.org,Ann Arbor Art Fair
+Contact,Contact Email 3,artfair@statestreetdistrict.org,Ann Arbor Art Fair
+Contact,Contact Email 4,info@theguild.org,Ann Arbor Art Fair
+Contact,Contact Phone,313.462.0808,Ann Arbor Art Fair
+Contact,Contact Phone 2,734.646.1500,Ann Arbor Art Fair
+Contact,Contact Phone 3,734.662.3382,Ann Arbor Art Fair
+Contact,Contact Phone 4,734.994.5260,Ann Arbor Art Fair
 Comparable Fair,Name,Bayou City Art Festival,Bayou City Art Festival
-Comparable Fair,Org,"Art Colony Association Inc (501c3)",Bayou City Art Festival
+Comparable Fair,Org,Art Colony Association Inc (501c3),Bayou City Art Festival
 Comparable Fair,Location,"Downtown Houston, TX",Bayou City Art Festival
 Comparable Fair,When,Spring (typically March/April),Bayou City Art Festival
 Comparable Fair,Duration,2 days,Bayou City Art Festival
@@ -80,7 +87,17 @@ Comparable Fair,Attendance,300000+,Bayou City Art Festival
 Comparable Fair,Features,"Live music, food trucks, kids area, culinary demos",Bayou City Art Festival
 Comparable Fair,Tickets,Ticketed (TicketSpice),Bayou City Art Festival
 Comparable Fair,Website,bayoucityartfestival.com,Bayou City Art Festival
-,,,,
+Contact,Contact Email,artist@bayoucityartfestival.com,Bayou City Art Festival
+Contact,Contact Email 2,charlie@bayoucityartfestival.com,Bayou City Art Festival
+Contact,Contact Email 3,food@bayoucityartfestival.com,Bayou City Art Festival
+Contact,Contact Email 4,info@bayoucityartfestival.com,Bayou City Art Festival
+Contact,Contact Email 5,info@thepadgettgroup.com,Bayou City Art Festival
+Contact,Contact Email 6,julia@bayoucityartfestival.com,Bayou City Art Festival
+Contact,Contact Email 7,kellyb@bayoucityartfestival.com,Bayou City Art Festival
+Contact,Contact Email 8,social@bayoucityartfestival.com,Bayou City Art Festival
+Contact,Contact Email 9,volunteer@bayoucityartfestival.com,Bayou City Art Festival
+Contact,Contact Email 10,wendi@bayoucityartfestival.com,Bayou City Art Festival
+Contact,Contact Phone,713-521-0133,Bayou City Art Festival
 Comparable Fair,Name,St. James Court Art Show,St. James Court Art Show
 Comparable Fair,Org,Nonprofit (volunteer-run),St. James Court Art Show
 Comparable Fair,Location,"Old Louisville, Louisville, KY",St. James Court Art Show
@@ -91,9 +108,18 @@ Comparable Fair,Attendance,200000+,St. James Court Art Show
 Comparable Fair,Features,"4-square-block show among Victorian homes, 6 sections",St. James Court Art Show
 Comparable Fair,Tickets,Free admission,St. James Court Art Show
 Comparable Fair,Website,stjamescourtartshow.com,St. James Court Art Show
-,,,,
+Contact,Contact Email,1300@stjamescourtartshow.com,St. James Court Art Show
+Contact,Contact Email 2,3rdst@stjamescourtartshow.com,St. James Court Art Show
+Contact,Contact Email 3,dlayman@stjamescourtartshow.com,St. James Court Art Show
+Contact,Contact Email 4,dulci@stjamescourtartshow.com,St. James Court Art Show
+Contact,Contact Email 5,howard@stjamescourtartshow.com,St. James Court Art Show
+Contact,Contact Email 6,rick@stjamescourtartshow.com,St. James Court Art Show
+Contact,Contact Phone,(502) 386-8093,St. James Court Art Show
+Contact,Contact Phone 2,(502) 388-6312,St. James Court Art Show
+Contact,Contact Phone 3,(502) 656-5227,St. James Court Art Show
+Contact,Contact Phone 4,502-635-1842,St. James Court Art Show
 Comparable Fair,Name,Des Moines Arts Festival,Des Moines Arts Festival
-Comparable Fair,Org,"Des Moines Arts Festival Inc (501c3)",Des Moines Arts Festival
+Comparable Fair,Org,Des Moines Arts Festival Inc (501c3),Des Moines Arts Festival
 Comparable Fair,Location,"Western Gateway Park, Des Moines, IA",Des Moines Arts Festival
 Comparable Fair,When,"June 26–28, 2026",Des Moines Arts Festival
 Comparable Fair,Duration,3 days,Des Moines Arts Festival
@@ -102,9 +128,10 @@ Comparable Fair,Attendance,150000+,Des Moines Arts Festival
 Comparable Fair,Features,"Art, music, film, 16x Grand Pinnacle Award winner",Des Moines Arts Festival
 Comparable Fair,Tickets,Free admission,Des Moines Arts Festival
 Comparable Fair,Website,desmoinesartsfestival.org,Des Moines Arts Festival
-,,,,
+Contact,Contact Email,info@desmoinesartsfestival.org,Des Moines Arts Festival
+Contact,Contact Phone,515.416.6066,Des Moines Arts Festival
 Comparable Fair,Name,Coconut Grove Arts Festival,Coconut Grove Arts Festival
-Comparable Fair,Org,"Coconut Grove Arts Festival (nonprofit)",Coconut Grove Arts Festival
+Comparable Fair,Org,Coconut Grove Arts Festival (nonprofit),Coconut Grove Arts Festival
 Comparable Fair,Location,"Coconut Grove, Miami, FL",Coconut Grove Arts Festival
 Comparable Fair,When,Presidents Day weekend (February),Coconut Grove Arts Festival
 Comparable Fair,Duration,3 days,Coconut Grove Arts Festival
@@ -113,7 +140,11 @@ Comparable Fair,Attendance,120000+,Coconut Grove Arts Festival
 Comparable Fair,Features,"62nd annual (2026), outdoor along Biscayne Bay",Coconut Grove Arts Festival
 Comparable Fair,Tickets,Ticketed (~$15 GA),Coconut Grove Arts Festival
 Comparable Fair,Website,cgaf.com,Coconut Grove Arts Festival
-,,,,
+Contact,Contact Email,festivalartist@cgaf.com,Coconut Grove Arts Festival
+Contact,Contact Email 2,info@cgaf.com,Coconut Grove Arts Festival
+Contact,Contact Email 3,support@cgaf.com,Coconut Grove Arts Festival
+Contact,Contact Phone,(305) 447-0401,Coconut Grove Arts Festival
+Contact,Contact Phone 2,(877) 253-8717,Coconut Grove Arts Festival
 Comparable Fair,Name,Artisphere,Artisphere
 Comparable Fair,Org,Artisphere (nonprofit),Artisphere
 Comparable Fair,Location,"Downtown Greenville, SC",Artisphere
@@ -124,7 +155,14 @@ Comparable Fair,Attendance,80000+,Artisphere
 Comparable Fair,Features,"Art, live music, local food, founded 2003",Artisphere
 Comparable Fair,Tickets,Free admission,Artisphere
 Comparable Fair,Website,artisphere.org,Artisphere
-,,,,
+Contact,Contact Email,allison@artisphere.org,Artisphere
+Contact,Contact Email 2,izzy@artisphere.org,Artisphere
+Contact,Contact Email 3,kerry@artisphere.org,Artisphere
+Contact,Contact Email 4,robin@artisphere.org,Artisphere
+Contact,Contact Phone,864.271.9355,Artisphere
+Contact,Contact Phone 2,864.271.9398,Artisphere
+Contact,Contact Phone 3,864.283.6825,Artisphere
+Contact,Contact Phone 4,864.412.1040,Artisphere
 Comparable Fair,Name,Krasl Art Fair on the Bluff,Krasl Art Fair on the Bluff
 Comparable Fair,Org,Krasl Art Center (nonprofit),Krasl Art Fair on the Bluff
 Comparable Fair,Location,"St. Joseph, MI (Lake Michigan bluff)",Krasl Art Fair on the Bluff
@@ -133,9 +171,9 @@ Comparable Fair,Duration,2 days,Krasl Art Fair on the Bluff
 Comparable Fair,Artists,172 juried artists,Krasl Art Fair on the Bluff
 Comparable Fair,Attendance,60000+,Krasl Art Fair on the Bluff
 Comparable Fair,Features,"Lakefront setting, block party pre-fair, shuttle service",Krasl Art Fair on the Bluff
-Comparable Fair,Tickets,"Free admission (Block Party $10)",Krasl Art Fair on the Bluff
+Comparable Fair,Tickets,Free admission (Block Party $10),Krasl Art Fair on the Bluff
 Comparable Fair,Website,krasl.org/art-fair,Krasl Art Fair on the Bluff
-,,,,
+Contact,Contact Phone,269.983.0271,Krasl Art Fair on the Bluff
 Comparable Fair,Name,Summerfair Cincinnati,Summerfair Cincinnati
 Comparable Fair,Org,Summerfair Inc (nonprofit),Summerfair Cincinnati
 Comparable Fair,Location,"Coney Island, Cincinnati, OH",Summerfair Cincinnati
@@ -146,7 +184,9 @@ Comparable Fair,Attendance,20000+,Summerfair Cincinnati
 Comparable Fair,Features,"50+ year tradition, supports arts scholarships & exhibitions",Summerfair Cincinnati
 Comparable Fair,Tickets,Ticketed,Summerfair Cincinnati
 Comparable Fair,Website,summerfair.org,Summerfair Cincinnati
-,,,,
+Contact,Contact Email,info@summerfair.org,Summerfair Cincinnati
+Contact,Contact Phone,(513) 531-0050,Summerfair Cincinnati
+Contact,Contact Phone 2,+1 513 531 0050,Summerfair Cincinnati
 Comparable Fair,Name,Gasparilla Festival of the Arts,Gasparilla Festival of the Arts
 Comparable Fair,Org,Gasparilla Festival of the Arts (nonprofit),Gasparilla Festival of the Arts
 Comparable Fair,Location,"Curtis Hixon Waterfront Park, Tampa, FL",Gasparilla Festival of the Arts
@@ -157,7 +197,7 @@ Comparable Fair,Attendance,100000+,Gasparilla Festival of the Arts
 Comparable Fair,Features,"Waterfront setting, live music, food",Gasparilla Festival of the Arts
 Comparable Fair,Tickets,Free admission,Gasparilla Festival of the Arts
 Comparable Fair,Website,gasparillaarts.com,Gasparilla Festival of the Arts
-,,,,
+Contact,Contact Phone,(813) 876-1747,Gasparilla Festival of the Arts
 Comparable Fair,Name,Three Rivers Arts Festival,Three Rivers Arts Festival
 Comparable Fair,Org,Pittsburgh Cultural Trust (nonprofit),Three Rivers Arts Festival
 Comparable Fair,Location,"Point State Park & Downtown Pittsburgh, PA",Three Rivers Arts Festival
@@ -168,7 +208,6 @@ Comparable Fair,Attendance,400000+,Three Rivers Arts Festival
 Comparable Fair,Features,"10-day free festival, music stages, artist market",Three Rivers Arts Festival
 Comparable Fair,Tickets,Free admission,Three Rivers Arts Festival
 Comparable Fair,Website,tfrpgh.org,Three Rivers Arts Festival
-,,,,
 Comparable Fair,Name,Old Town Art Fair,Old Town Art Fair
 Comparable Fair,Org,Old Town Triangle Association (nonprofit),Old Town Art Fair
 Comparable Fair,Location,"Lincoln Park / Old Town, Chicago, IL",Old Town Art Fair
@@ -179,7 +218,6 @@ Comparable Fair,Attendance,50000+,Old Town Art Fair
 Comparable Fair,Features,"One of the oldest art fairs in the US (est. 1950), garden walks",Old Town Art Fair
 Comparable Fair,Tickets,Suggested $10 donation,Old Town Art Fair
 Comparable Fair,Website,oldtownartfair.com,Old Town Art Fair
-,,,,
 Comparable Fair,Name,Utah Arts Festival,Utah Arts Festival
 Comparable Fair,Org,Utah Arts Festival (nonprofit),Utah Arts Festival
 Comparable Fair,Location,"Library Square, Salt Lake City, UT",Utah Arts Festival
@@ -190,7 +228,8 @@ Comparable Fair,Attendance,80000+,Utah Arts Festival
 Comparable Fair,Features,"Art, live music, film, dance, literary arts, kids area",Utah Arts Festival
 Comparable Fair,Tickets,Ticketed (~$15),Utah Arts Festival
 Comparable Fair,Website,uaf.org,Utah Arts Festival
-,,,,
+Contact,Contact Phone,1844.297 1006,Utah Arts Festival
+Contact,Contact Phone 2,801-322-2428,Utah Arts Festival
 Comparable Fair,Name,Lakefront Festival of Art,Lakefront Festival of Art
 Comparable Fair,Org,Milwaukee Art Museum (nonprofit),Lakefront Festival of Art
 Comparable Fair,Location,"Milwaukee Art Museum lakefront, Milwaukee, WI",Lakefront Festival of Art
@@ -201,7 +240,6 @@ Comparable Fair,Attendance,35000+,Lakefront Festival of Art
 Comparable Fair,Features,"Lakefront setting, museum access, live music, wine garden",Lakefront Festival of Art
 Comparable Fair,Tickets,Ticketed (~$19),Lakefront Festival of Art
 Comparable Fair,Website,lfoa.mam.org,Lakefront Festival of Art
-,,,,
 Comparable Fair,Name,Plaza Art Fair,Plaza Art Fair
 Comparable Fair,Org,Country Club Plaza / nonprofit partnership,Plaza Art Fair
 Comparable Fair,Location,"Country Club Plaza, Kansas City, MO",Plaza Art Fair
@@ -212,7 +250,6 @@ Comparable Fair,Attendance,250000+,Plaza Art Fair
 Comparable Fair,Features,"One of the top outdoor fairs, live music on 3 stages, food",Plaza Art Fair
 Comparable Fair,Tickets,Free admission,Plaza Art Fair
 Comparable Fair,Website,plazaartfair.com,Plaza Art Fair
-,,,,
 Comparable Fair,Name,Laumeier Art Fair,Laumeier Art Fair
 Comparable Fair,Org,Laumeier Sculpture Park (nonprofit),Laumeier Art Fair
 Comparable Fair,Location,"Laumeier Sculpture Park, St. Louis, MO",Laumeier Art Fair
@@ -223,7 +260,6 @@ Comparable Fair,Attendance,100000+,Laumeier Art Fair
 Comparable Fair,Features,"Sculpture park setting, live music, food, wine & beer",Laumeier Art Fair
 Comparable Fair,Tickets,Ticketed (~$10),Laumeier Art Fair
 Comparable Fair,Website,laumeier.org/art-fair,Laumeier Art Fair
-,,,,
 Comparable Fair,Name,Uptown Art Fair,Uptown Art Fair
 Comparable Fair,Org,Uptown Association (nonprofit),Uptown Art Fair
 Comparable Fair,Location,"Uptown neighborhood, Minneapolis, MN",Uptown Art Fair
@@ -234,9 +270,8 @@ Comparable Fair,Attendance,375000+,Uptown Art Fair
 Comparable Fair,Features,"One of the top-ranked outdoor fairs in the US, music, food",Uptown Art Fair
 Comparable Fair,Tickets,Free admission,Uptown Art Fair
 Comparable Fair,Website,uptownartfair.com,Uptown Art Fair
-,,,,
 Comparable Fair,Name,Festival of the Arts,Festival of the Arts
-Comparable Fair,Org,"Arts Council Oklahoma City (nonprofit)",Festival of the Arts
+Comparable Fair,Org,Arts Council Oklahoma City (nonprofit),Festival of the Arts
 Comparable Fair,Location,"Bicentennial Park, Oklahoma City, OK",Festival of the Arts
 Comparable Fair,When,Late April,Festival of the Arts
 Comparable Fair,Duration,6 days,Festival of the Arts
@@ -245,7 +280,19 @@ Comparable Fair,Attendance,750000+,Festival of the Arts
 Comparable Fair,Features,"Huge free festival, performance stages, international food row",Festival of the Arts
 Comparable Fair,Tickets,Free admission,Festival of the Arts
 Comparable Fair,Website,artscouncilokc.com/festival-of-the-arts,Festival of the Arts
-,,,,
+Contact,Contact Email,acozby@artscouncilokc.com,Festival of the Arts
+Contact,Contact Email 2,bmitschell@artscouncilokc.com,Festival of the Arts
+Contact,Contact Email 3,dtigert@artscouncilokc.com,Festival of the Arts
+Contact,Contact Email 4,info@artscouncilokc.com,Festival of the Arts
+Contact,Contact Email 5,jcoker@artscouncilokc.com,Festival of the Arts
+Contact,Contact Email 6,jnewton@artscouncilokc.com,Festival of the Arts
+Contact,Contact Email 7,lconn@artscouncilokc.com,Festival of the Arts
+Contact,Contact Email 8,mdeloera@artscouncilokc.com,Festival of the Arts
+Contact,Contact Email 9,ncaudle@artscouncilokc.com,Festival of the Arts
+Contact,Contact Email 10,racree@artscouncilokc.com,Festival of the Arts
+Contact,Contact Email 11,tinfo@artscouncilokc.com,Festival of the Arts
+Contact,Contact Phone,(405) 270-4848,Festival of the Arts
+Contact,Contact Phone 2,(405) 270-4888,Festival of the Arts
 Comparable Fair,Name,ArtPrize,ArtPrize
 Comparable Fair,Org,ArtPrize (nonprofit),ArtPrize
 Comparable Fair,Location,"Downtown Grand Rapids, MI",ArtPrize
@@ -256,7 +303,7 @@ Comparable Fair,Attendance,500000+,ArtPrize
 Comparable Fair,Features,"Open, international art competition; public vote + jury prizes totaling $500K+",ArtPrize
 Comparable Fair,Tickets,Free admission,ArtPrize
 Comparable Fair,Website,artprize.org,ArtPrize
-,,,,
+Contact,Contact Email,events@artprize.org,ArtPrize
 Comparable Fair,Name,Talbot Street Art Fair,Talbot Street Art Fair
 Comparable Fair,Org,Herron-Morton Place Foundation (nonprofit),Talbot Street Art Fair
 Comparable Fair,Location,"Herron-Morton Place, Indianapolis, IN",Talbot Street Art Fair
@@ -267,7 +314,9 @@ Comparable Fair,Attendance,25000+,Talbot Street Art Fair
 Comparable Fair,Features,"Historic neighborhood setting, live music, food, same city as Penrod",Talbot Street Art Fair
 Comparable Fair,Tickets,Free admission,Talbot Street Art Fair
 Comparable Fair,Website,talbotstreet.org,Talbot Street Art Fair
-,,,,
+Contact,Contact Email,talbotstreetartfair@gmail.com,Talbot Street Art Fair
+Contact,Contact Email 2,talbotstreetartfair@hotmail.com,Talbot Street Art Fair
+Contact,Contact Phone,(317) 745-6479,Talbot Street Art Fair
 Comparable Fair,Name,Winter Park Sidewalk Art Festival,Winter Park Sidewalk Art Festival
 Comparable Fair,Org,Winter Park Sidewalk Art Festival Inc (nonprofit),Winter Park Sidewalk Art Festival
 Comparable Fair,Location,"Downtown Winter Park, FL",Winter Park Sidewalk Art Festival
@@ -278,7 +327,8 @@ Comparable Fair,Attendance,"350,000+",Winter Park Sidewalk Art Festival
 Comparable Fair,Features,One of the nation's oldest and most prestigious outdoor art festivals (est. 1960),Winter Park Sidewalk Art Festival
 Comparable Fair,Tickets,Free admission,Winter Park Sidewalk Art Festival
 Comparable Fair,Website,wpsaf.org,Winter Park Sidewalk Art Festival
-,,,,
+Contact,Contact Email,twpsaf@wpsaf.org,Winter Park Sidewalk Art Festival
+Contact,Contact Phone,(407) 644-7207,Winter Park Sidewalk Art Festival
 Comparable Fair,Name,Scottsdale Arts Festival,Scottsdale Arts Festival
 Comparable Fair,Org,Scottsdale Arts (nonprofit),Scottsdale Arts Festival
 Comparable Fair,Location,"Scottsdale Civic Center Mall, Scottsdale, AZ",Scottsdale Arts Festival
@@ -289,7 +339,6 @@ Comparable Fair,Attendance,"40,000+",Scottsdale Arts Festival
 Comparable Fair,Features,"Live entertainment, hands-on art activities, culinary pavilion",Scottsdale Arts Festival
 Comparable Fair,Tickets,Ticketed (~$15 GA),Scottsdale Arts Festival
 Comparable Fair,Website,scottsdaleartsfestival.org,Scottsdale Arts Festival
-,,,,
 Comparable Fair,Name,Sausalito Art Festival,Sausalito Art Festival
 Comparable Fair,Org,Sausalito Art Festival Foundation (nonprofit),Sausalito Art Festival
 Comparable Fair,Location,"Marinship Park, Sausalito, CA",Sausalito Art Festival
@@ -300,7 +349,9 @@ Comparable Fair,Attendance,"40,000+",Sausalito Art Festival
 Comparable Fair,Features,"Premium wine & food, waterfront setting, live music stages",Sausalito Art Festival
 Comparable Fair,Tickets,Ticketed (~$25 GA),Sausalito Art Festival
 Comparable Fair,Website,sausalitoartfestival.org,Sausalito Art Festival
-,,,,
+Contact,Contact Email,information@sausalitoartfestival.org,Sausalito Art Festival
+Contact,Contact Email 2,louis@sausalitoartfestival.org,Sausalito Art Festival
+Contact,Contact Phone,415-332-3555,Sausalito Art Festival
 Comparable Fair,Name,ArtFest Fort Myers,ArtFest Fort Myers
 Comparable Fair,Org,ArtFest Fort Myers Inc (nonprofit),ArtFest Fort Myers
 Comparable Fair,Location,"Riverfront of Downtown Fort Myers, FL",ArtFest Fort Myers
@@ -311,7 +362,8 @@ Comparable Fair,Attendance,"100,000+",ArtFest Fort Myers
 Comparable Fair,Features,"Interactive art yard, chalk block, live music on 2 stages",ArtFest Fort Myers
 Comparable Fair,Tickets,Free admission,ArtFest Fort Myers
 Comparable Fair,Website,artfestfortmyers.com,ArtFest Fort Myers
-,,,,
+Contact,Contact Email,info@artfestfortmyers.com,ArtFest Fort Myers
+Contact,Contact Phone,239-768-3602,ArtFest Fort Myers
 Comparable Fair,Name,ArtiGras Fine Arts Festival,ArtiGras Fine Arts Festival
 Comparable Fair,Org,ArtiGras (nonprofit),ArtiGras Fine Arts Festival
 Comparable Fair,Location,"Gardens North County District Park, Palm Beach Gardens, FL",ArtiGras Fine Arts Festival
@@ -322,7 +374,6 @@ Comparable Fair,Attendance,"85,000+",ArtiGras Fine Arts Festival
 Comparable Fair,Features,One of the top-ranked fine art festivals in the Southeast,ArtiGras Fine Arts Festival
 Comparable Fair,Tickets,Ticketed (~$12 GA),ArtiGras Fine Arts Festival
 Comparable Fair,Website,artigras.org,ArtiGras Fine Arts Festival
-,,,,
 Comparable Fair,Name,Cottonwood Art Festival,Cottonwood Art Festival
 Comparable Fair,Org,City of Richardson (municipal),Cottonwood Art Festival
 Comparable Fair,Location,"Cottonwood Park, Richardson, TX",Cottonwood Art Festival
@@ -333,7 +384,12 @@ Comparable Fair,Attendance,"50,000+ per show",Cottonwood Art Festival
 Comparable Fair,Features,"Top-ranked Texas art festival, twice yearly (spring & fall)",Cottonwood Art Festival
 Comparable Fair,Tickets,Free admission,Cottonwood Art Festival
 Comparable Fair,Website,cottonwoodartfestival.com,Cottonwood Art Festival
-,,,,
+Contact,Contact Email,adacoordinator@cor.gov,Cottonwood Art Festival
+Contact,Contact Email 2,cottonwood@cor.gov,Cottonwood Art Festival
+Contact,Contact Email 3,dianna.lawrence@cor.gov,Cottonwood Art Festival
+Contact,Contact Phone,214-515-7272,Cottonwood Art Festival
+Contact,Contact Phone 2,972 744-0908,Cottonwood Art Festival
+Contact,Contact Phone 3,972-744-4580,Cottonwood Art Festival
 Comparable Fair,Name,Art in the Pearl,Art in the Pearl
 Comparable Fair,Org,Art in the Pearl (nonprofit),Art in the Pearl
 Comparable Fair,Location,"NW Park Blocks, Portland, OR",Art in the Pearl
@@ -344,7 +400,7 @@ Comparable Fair,Attendance,"75,000+",Art in the Pearl
 Comparable Fair,Features,"Live music, food, kids' activities in historic Pearl District",Art in the Pearl
 Comparable Fair,Tickets,Free admission,Art in the Pearl
 Comparable Fair,Website,artinthepearl.com,Art in the Pearl
-,,,,
+Contact,Contact Email,info@artinthepearl.com,Art in the Pearl
 Comparable Fair,Name,Salem Art Fair & Festival,Salem Art Fair & Festival
 Comparable Fair,Org,Salem Art Association (nonprofit),Salem Art Fair & Festival
 Comparable Fair,Location,"Bush's Pasture Park, Salem, OR",Salem Art Fair & Festival
@@ -355,7 +411,6 @@ Comparable Fair,Attendance,"35,000+",Salem Art Fair & Festival
 Comparable Fair,Features,One of the largest juried art fairs in the Pacific Northwest,Salem Art Fair & Festival
 Comparable Fair,Tickets,Ticketed (~$7 GA),Salem Art Fair & Festival
 Comparable Fair,Website,salemartfair.org,Salem Art Fair & Festival
-,,,,
 Comparable Fair,Name,Bellevue Arts Fair,Bellevue Arts Fair
 Comparable Fair,Org,Bellevue Arts Museum (nonprofit),Bellevue Arts Fair
 Comparable Fair,Location,"Bellevue Square, Bellevue, WA",Bellevue Arts Fair
@@ -366,7 +421,8 @@ Comparable Fair,Attendance,"100,000+",Bellevue Arts Fair
 Comparable Fair,Features,"Premier Pacific Northwest art event, coincides with Bellevue Arts Museum ArtsFair",Bellevue Arts Fair
 Comparable Fair,Tickets,Free admission,Bellevue Arts Fair
 Comparable Fair,Website,bellevueartsfair.com,Bellevue Arts Fair
-,,,,
+Contact,Contact Email,info@bellevuearts.org,Bellevue Arts Fair
+Contact,Contact Email 2,info@bellevuedowntown.com,Bellevue Arts Fair
 Comparable Fair,Name,Corn Hill Arts Festival,Corn Hill Arts Festival
 Comparable Fair,Org,Corn Hill Neighbors Association (nonprofit),Corn Hill Arts Festival
 Comparable Fair,Location,"Historic Corn Hill Neighborhood, Rochester, NY",Corn Hill Arts Festival
@@ -377,7 +433,8 @@ Comparable Fair,Attendance,"150,000+",Corn Hill Arts Festival
 Comparable Fair,Features,"One of the top art festivals in NYS, live music, food, historic neighborhood",Corn Hill Arts Festival
 Comparable Fair,Tickets,Free admission,Corn Hill Arts Festival
 Comparable Fair,Website,cornhillartsfestival.com,Corn Hill Arts Festival
-,,,,
+Contact,Contact Phone,1-585-262-3142,Corn Hill Arts Festival
+Contact,Contact Phone 2,585-262-3142,Corn Hill Arts Festival
 Comparable Fair,Name,Syracuse Arts & Crafts Festival,Syracuse Arts & Crafts Festival
 Comparable Fair,Org,Syracuse Arts & Crafts Festival (nonprofit),Syracuse Arts & Crafts Festival
 Comparable Fair,Location,"Cathedral Square, Downtown Syracuse, NY",Syracuse Arts & Crafts Festival
@@ -388,7 +445,6 @@ Comparable Fair,Attendance,"50,000+",Syracuse Arts & Crafts Festival
 Comparable Fair,Features,"Historic downtown setting, food, live entertainment",Syracuse Arts & Crafts Festival
 Comparable Fair,Tickets,Free admission,Syracuse Arts & Crafts Festival
 Comparable Fair,Website,syracuseartsandcraftsfestival.com,Syracuse Arts & Crafts Festival
-,,,,
 Comparable Fair,Name,Breckenridge July Fine Art Festival,Breckenridge July Fine Art Festival
 Comparable Fair,Org,Mountain Art Festivals (event producer),Breckenridge July Fine Art Festival
 Comparable Fair,Location,"Main Street Station, Breckenridge, CO",Breckenridge July Fine Art Festival
@@ -399,7 +455,8 @@ Comparable Fair,Attendance,"20,000+",Breckenridge July Fine Art Festival
 Comparable Fair,Features,"Mountain setting at 9,600 ft elevation, 43rd annual",Breckenridge July Fine Art Festival
 Comparable Fair,Tickets,Free admission,Breckenridge July Fine Art Festival
 Comparable Fair,Website,mountainartfestivals.com,Breckenridge July Fine Art Festival
-,,,,
+Contact,Contact Email,mountainartfestivals@gmail.com,Breckenridge July Fine Art Festival
+Contact,Contact Phone,970-406-1866,Breckenridge July Fine Art Festival
 Comparable Fair,Name,Lakeshore Art Festival,Lakeshore Art Festival
 Comparable Fair,Org,Lakeshore Art Festival (nonprofit),Lakeshore Art Festival
 Comparable Fair,Location,"Downtown Muskegon, MI",Lakeshore Art Festival
@@ -410,7 +467,7 @@ Comparable Fair,Attendance,"100,000+",Lakeshore Art Festival
 Comparable Fair,Features,"Top-ranked Michigan art festival, food, live music",Lakeshore Art Festival
 Comparable Fair,Tickets,Free admission,Lakeshore Art Festival
 Comparable Fair,Website,lakeshoreartfestival.org,Lakeshore Art Festival
-,,,,
+Contact,Contact Phone,231-724-4100,Lakeshore Art Festival
 Comparable Fair,Name,Belle Isle Art Fair,Belle Isle Art Fair
 Comparable Fair,Org,Belle Isle Art Fair (nonprofit),Belle Isle Art Fair
 Comparable Fair,Location,"Belle Isle, Detroit, MI",Belle Isle Art Fair
@@ -421,7 +478,6 @@ Comparable Fair,Attendance,"30,000+",Belle Isle Art Fair
 Comparable Fair,Features,"Island park setting, live music, food trucks",Belle Isle Art Fair
 Comparable Fair,Tickets,Ticketed (~$10 GA),Belle Isle Art Fair
 Comparable Fair,Website,belleisleartfair.com,Belle Isle Art Fair
-,,,,
 Comparable Fair,Name,Kalamazoo Institute of Arts Fair,Kalamazoo Institute of Arts Fair
 Comparable Fair,Org,Kalamazoo Institute of Arts (nonprofit),Kalamazoo Institute of Arts Fair
 Comparable Fair,Location,"KIA Campus, Kalamazoo, MI",Kalamazoo Institute of Arts Fair
@@ -432,7 +488,7 @@ Comparable Fair,Attendance,"25,000+",Kalamazoo Institute of Arts Fair
 Comparable Fair,Features,"Museum-hosted, fine art focused, live music",Kalamazoo Institute of Arts Fair
 Comparable Fair,Tickets,Free admission,Kalamazoo Institute of Arts Fair
 Comparable Fair,Website,kiarts.org/arts-fair,Kalamazoo Institute of Arts Fair
-,,,,
+Contact,Contact Phone,269.349.7775,Kalamazoo Institute of Arts Fair
 Comparable Fair,Name,Fourth Street Festival of the Arts & Crafts,Fourth Street Festival of the Arts & Crafts
 Comparable Fair,Org,Fourth Street Festival Inc (nonprofit),Fourth Street Festival of the Arts & Crafts
 Comparable Fair,Location,"4th Street, Bloomington, IN",Fourth Street Festival of the Arts & Crafts
@@ -443,7 +499,8 @@ Comparable Fair,Attendance,"30,000+",Fourth Street Festival of the Arts & Crafts
 Comparable Fair,Features,"College town setting, same city as Indiana University",Fourth Street Festival of the Arts & Crafts
 Comparable Fair,Tickets,Free admission,Fourth Street Festival of the Arts & Crafts
 Comparable Fair,Website,4thstreet.org,Fourth Street Festival of the Arts & Crafts
-,,,,
+Contact,Contact Email,4th.street.festival@gmail.com,Fourth Street Festival of the Arts & Crafts
+Contact,Contact Phone,812-575-0484,Fourth Street Festival of the Arts & Crafts
 Comparable Fair,Name,Saint Louis Art Fair,Saint Louis Art Fair
 Comparable Fair,Org,Cultural Festivals Inc (nonprofit),Saint Louis Art Fair
 Comparable Fair,Location,"Downtown Clayton, MO",Saint Louis Art Fair
@@ -454,7 +511,11 @@ Comparable Fair,Attendance,"130,000+",Saint Louis Art Fair
 Comparable Fair,Features,"Grand Pinnacle Award winner, live music, food, 33rd annual",Saint Louis Art Fair
 Comparable Fair,Tickets,Free admission,Saint Louis Art Fair
 Comparable Fair,Website,saintlouisartfair.com,Saint Louis Art Fair
-,,,,
+Contact,Contact Email,info@culturalfestivals.com,Saint Louis Art Fair
+Contact,Contact Email 2,info@saintlouisartfair.com,Saint Louis Art Fair
+Contact,Contact Email 3,stevethurman@me.com,Saint Louis Art Fair
+Contact,Contact Phone,+1 314.863.0278,Saint Louis Art Fair
+Contact,Contact Phone 2,314.863.0278,Saint Louis Art Fair
 Comparable Fair,Name,Coconut Point Art Festival,Coconut Point Art Festival
 Comparable Fair,Org,Howard Alan Events (producer),Coconut Point Art Festival
 Comparable Fair,Location,"Coconut Point, Estero, FL",Coconut Point Art Festival
@@ -465,7 +526,9 @@ Comparable Fair,Attendance,"50,000+",Coconut Point Art Festival
 Comparable Fair,Features,"Upscale outdoor shopping center setting, fine art",Coconut Point Art Festival
 Comparable Fair,Tickets,Free admission,Coconut Point Art Festival
 Comparable Fair,Website,artfestival.com,Coconut Point Art Festival
-,,,,
+Contact,Contact Email,info@artfestival.com,Coconut Point Art Festival
+Contact,Contact Phone,561-746-6528,Coconut Point Art Festival
+Contact,Contact Phone 2,561-746-6615,Coconut Point Art Festival
 Comparable Fair,Name,Magic City Art Connection,Magic City Art Connection
 Comparable Fair,Org,Magic City Art Connection (nonprofit),Magic City Art Connection
 Comparable Fair,Location,"Sloss Furnaces, Birmingham, AL",Magic City Art Connection
@@ -476,7 +539,10 @@ Comparable Fair,Attendance,"60,000+",Magic City Art Connection
 Comparable Fair,Features,"National Historic Landmark setting, live music, food",Magic City Art Connection
 Comparable Fair,Tickets,Ticketed (~$10 GA),Magic City Art Connection
 Comparable Fair,Website,magiccityart.com,Magic City Art Connection
-,,,,
+Contact,Contact Email,findartbhm@gmail.com,Magic City Art Connection
+Contact,Contact Email 2,magiccityartconnection@gmail.com,Magic City Art Connection
+Contact,Contact Phone,205-595-3563,Magic City Art Connection
+Contact,Contact Phone 2,205-595-6306,Magic City Art Connection
 Comparable Fair,Name,Park Point Art Fair,Park Point Art Fair
 Comparable Fair,Org,Park Point Art Fair (community nonprofit),Park Point Art Fair
 Comparable Fair,Location,"Park Point, Duluth, MN",Park Point Art Fair
@@ -487,7 +553,8 @@ Comparable Fair,Attendance,"10,000+",Park Point Art Fair
 Comparable Fair,Features,"Sandy beach setting on Lake Superior, community-run",Park Point Art Fair
 Comparable Fair,Tickets,Free admission,Park Point Art Fair
 Comparable Fair,Website,parkpointartfair.org,Park Point Art Fair
-,,,,
+Contact,Contact Email,coordinator@parkpointartfair.org,Park Point Art Fair
+Contact,Contact Phone,218-348-7338,Park Point Art Fair
 Comparable Fair,Name,Leeper Park Art Fair,Leeper Park Art Fair
 Comparable Fair,Org,Leeper Park Art Fair (nonprofit),Leeper Park Art Fair
 Comparable Fair,Location,"Riverside Dr, South Bend, IN",Leeper Park Art Fair
@@ -498,7 +565,8 @@ Comparable Fair,Attendance,"15,000+",Leeper Park Art Fair
 Comparable Fair,Features,"Riverside park setting near Notre Dame, same state as Penrod",Leeper Park Art Fair
 Comparable Fair,Tickets,Free admission,Leeper Park Art Fair
 Comparable Fair,Website,leeperparkartfair.org,Leeper Park Art Fair
-,,,,
+Contact,Contact Email,leeperparkartfairsb@gmail.com,Leeper Park Art Fair
+Contact,Contact Phone,(571) 435-6217,Leeper Park Art Fair
 Comparable Fair,Name,Piedmont Park Arts Festival,Piedmont Park Arts Festival
 Comparable Fair,Org,Atlanta Foundation for Public Spaces (nonprofit),Piedmont Park Arts Festival
 Comparable Fair,Location,"Piedmont Park, Atlanta, GA",Piedmont Park Arts Festival
@@ -509,7 +577,16 @@ Comparable Fair,Attendance,"40,000+",Piedmont Park Arts Festival
 Comparable Fair,Features,"Major Atlanta park setting, live music, food",Piedmont Park Arts Festival
 Comparable Fair,Tickets,Free admission,Piedmont Park Arts Festival
 Comparable Fair,Website,piedmontparkartsfestival.com,Piedmont Park Arts Festival
-,,,,
+Contact,Contact Email,info@affps.com,Piedmont Park Arts Festival
+Contact,Contact Email 2,ncaren@carenwestpr.com,Piedmont Park Arts Festival
+Contact,Contact Email 3,nchadavid@carenwestpr.com,Piedmont Park Arts Festival
+Contact,Contact Email 4,ninfo@affps.com,Piedmont Park Arts Festival
+Contact,Contact Email 5,nrandallfox2003@yahoo.com,Piedmont Park Arts Festival
+Contact,Contact Email 6,randall@affps.com,Piedmont Park Arts Festival
+Contact,Contact Email 7,randallfox2003@yahoo.com,Piedmont Park Arts Festival
+Contact,Contact Phone,404.614.0006,Piedmont Park Arts Festival
+Contact,Contact Phone 2,404.848.5000,Piedmont Park Arts Festival
+Contact,Contact Phone 3,470-929-6095,Piedmont Park Arts Festival
 Comparable Fair,Name,Mayfaire by the Lake,Mayfaire by the Lake
 Comparable Fair,Org,Polk Museum of Art (nonprofit),Mayfaire by the Lake
 Comparable Fair,Location,"Lake Morton, Lakeland, FL",Mayfaire by the Lake
@@ -520,7 +597,41 @@ Comparable Fair,Attendance,"40,000+",Mayfaire by the Lake
 Comparable Fair,Features,"Lakeside setting, museum-supported, 50+ year tradition",Mayfaire by the Lake
 Comparable Fair,Tickets,Free admission,Mayfaire by the Lake
 Comparable Fair,Website,polkmuseumofart.org,Mayfaire by the Lake
-,,,,
+Contact,Contact Email,asantiago@agbmuseum.org,Mayfaire by the Lake
+Contact,Contact Email 2,asantiago@polkmuseumofart.org,Mayfaire by the Lake
+Contact,Contact Email 3,bcarew@agbmuseum.org,Mayfaire by the Lake
+Contact,Contact Email 4,delliott@agbmuseum.org,Mayfaire by the Lake
+Contact,Contact Email 5,delliott@polkmuseumofart.org,Mayfaire by the Lake
+Contact,Contact Email 6,dward@agbmuseum.org,Mayfaire by the Lake
+Contact,Contact Email 7,echastain@agbmuseum.org,Mayfaire by the Lake
+Contact,Contact Email 8,echastain@polkmuseumofart.org,Mayfaire by the Lake
+Contact,Contact Email 9,gmills@agbmuseum.org,Mayfaire by the Lake
+Contact,Contact Email 10,gmills@polkmuseumofart.org,Mayfaire by the Lake
+Contact,Contact Email 11,hculligan@agbmuseum.org,Mayfaire by the Lake
+Contact,Contact Email 12,info@agbmuseum.org,Mayfaire by the Lake
+Contact,Contact Email 13,jcampbell@agbmuseum.org,Mayfaire by the Lake
+Contact,Contact Email 14,jcampbell@polkmuseumofart.org,Mayfaire by the Lake
+Contact,Contact Email 15,jgates@agbmuseum.org,Mayfaire by the Lake
+Contact,Contact Email 16,jgates@polkmuseumofart.org,Mayfaire by the Lake
+Contact,Contact Email 17,lchambers@flsouthern.edu,Mayfaire by the Lake
+Contact,Contact Email 18,lputnam@agbmuseum.org,Mayfaire by the Lake
+Contact,Contact Email 19,lputnam@polkmuseumofart.org,Mayfaire by the Lake
+Contact,Contact Email 20,mayfairebythelake@agbmuseum.org,Mayfaire by the Lake
+Contact,Contact Email 21,mayfairebythelake@polkmuseumofart.org,Mayfaire by the Lake
+Contact,Contact Email 22,mcarpenter@agbmuseum.org,Mayfaire by the Lake
+Contact,Contact Email 23,mcarpenter@polkmuseumofart.org,Mayfaire by the Lake
+Contact,Contact Email 24,mdye@agbmuseum.org,Mayfaire by the Lake
+Contact,Contact Email 25,mdye@polkmuseumofart.org,Mayfaire by the Lake
+Contact,Contact Email 26,mwilson@agbmuseum.org,Mayfaire by the Lake
+Contact,Contact Email 27,pcafarelli@agbmuseum.org,Mayfaire by the Lake
+Contact,Contact Email 28,pcafarelli@polkmuseumofart.org,Mayfaire by the Lake
+Contact,Contact Email 29,ppowell@agbmuseum.org,Mayfaire by the Lake
+Contact,Contact Email 30,roldham@agbmuseum.org,Mayfaire by the Lake
+Contact,Contact Email 31,roldham@polkmuseumofart.org,Mayfaire by the Lake
+Contact,Contact Email 32,x8bdward@polkmuseumofart.org,Mayfaire by the Lake
+Contact,Contact Email 33,x8bmwilson@polkmuseumofart.org,Mayfaire by the Lake
+Contact,Contact Email 34,x8bppowell@polkmuseumofart.org,Mayfaire by the Lake
+Contact,Contact Phone,863.688.7743,Mayfaire by the Lake
 Comparable Fair,Name,Mount Dora Arts Festival,Mount Dora Arts Festival
 Comparable Fair,Org,Mount Dora Center for the Arts (nonprofit),Mount Dora Arts Festival
 Comparable Fair,Location,"Downtown Mount Dora, FL",Mount Dora Arts Festival
@@ -531,7 +642,11 @@ Comparable Fair,Attendance,"100,000+",Mount Dora Arts Festival
 Comparable Fair,Features,"Ranked top art fair in Southeast, charming small town setting",Mount Dora Arts Festival
 Comparable Fair,Tickets,Free admission,Mount Dora Arts Festival
 Comparable Fair,Website,mountdoracenterforthearts.org,Mount Dora Arts Festival
-,,,,
+Contact,Contact Email,info@mdca.org,Mount Dora Arts Festival
+Contact,Contact Email 2,nfo@mdca.org,Mount Dora Arts Festival
+Contact,Contact Phone,352-305-8725,Mount Dora Arts Festival
+Contact,Contact Phone 2,352-383-0880,Mount Dora Arts Festival
+Contact,Contact Phone 3,352-385-7004,Mount Dora Arts Festival
 Comparable Fair,Name,Celebration of Fine Art,Celebration of Fine Art
 Comparable Fair,Org,Celebration of Fine Art LLC,Celebration of Fine Art
 Comparable Fair,Location,"Scottsdale, AZ",Celebration of Fine Art
@@ -542,7 +657,8 @@ Comparable Fair,Attendance,"60,000+ over season",Celebration of Fine Art
 Comparable Fair,Features,Unique format — artists create on-site in heated tents for 10 weeks,Celebration of Fine Art
 Comparable Fair,Tickets,Ticketed (~$10 GA),Celebration of Fine Art
 Comparable Fair,Website,celebrateart.com,Celebration of Fine Art
-,,,,
+Contact,Contact Email,info@celebrateart.com,Celebration of Fine Art
+Contact,Contact Phone,480.443.7695,Celebration of Fine Art
 Comparable Fair,Name,Fountain Hills Great Fair,Fountain Hills Great Fair
 Comparable Fair,Org,Fountain Hills Great Fair (nonprofit),Fountain Hills Great Fair
 Comparable Fair,Location,"Avenue of the Fountains, Fountain Hills, AZ",Fountain Hills Great Fair
@@ -553,7 +669,6 @@ Comparable Fair,Attendance,"200,000+",Fountain Hills Great Fair
 Comparable Fair,Features,"Longest-running juried fine art and craft show in AZ, 3 consecutive weekends",Fountain Hills Great Fair
 Comparable Fair,Tickets,Free admission,Fountain Hills Great Fair
 Comparable Fair,Website,fountainhillsgreatfair.org,Fountain Hills Great Fair
-,,,,
 Comparable Fair,Name,Naples National Art Festival,Naples National Art Festival
 Comparable Fair,Org,Naples Art Association (nonprofit),Naples National Art Festival
 Comparable Fair,Location,"Cambier Park & 8th Street, Naples, FL",Naples National Art Festival
@@ -564,7 +679,8 @@ Comparable Fair,Attendance,"20,000+",Naples National Art Festival
 Comparable Fair,Features,"Top-ranked nationally, fine art focus, Gulf Coast setting",Naples National Art Festival
 Comparable Fair,Tickets,Free admission,Naples National Art Festival
 Comparable Fair,Website,naplesart.org,Naples National Art Festival
-,,,,
+Contact,Contact Email,info@naplesart.org,Naples National Art Festival
+Contact,Contact Phone,(239) 262-6517,Naples National Art Festival
 Comparable Fair,Name,Beaux Arts Fair,Beaux Arts Fair
 Comparable Fair,Org,Beaux Arts Society of the Indianapolis Museum of Art (nonprofit),Beaux Arts Fair
 Comparable Fair,Location,"Newfields Campus, Indianapolis, IN",Beaux Arts Fair
@@ -575,7 +691,19 @@ Comparable Fair,Attendance,"5,000+",Beaux Arts Fair
 Comparable Fair,Features,"Same venue as Penrod, museum fundraiser, smaller scale",Beaux Arts Fair
 Comparable Fair,Tickets,Ticketed,Beaux Arts Fair
 Comparable Fair,Website,discovernewfields.org,Beaux Arts Fair
-,,,,
+Contact,Contact Email,donors@discovernewfields.org,Beaux Arts Fair
+Contact,Contact Email 2,fairbankspark@discovernewfields.org,Beaux Arts Fair
+Contact,Contact Email 3,info@discovernewfields.org,Beaux Arts Fair
+Contact,Contact Email 4,weewonders@discovernewfields.org,Beaux Arts Fair
+Contact,Contact Phone,(812) 378-2622,Beaux Arts Fair
+Contact,Contact Phone 2,+1-317-923-1331,Beaux Arts Fair
+Contact,Contact Phone 3,317-383-0986,Beaux Arts Fair
+Contact,Contact Phone 4,317-920-2645,Beaux Arts Fair
+Contact,Contact Phone 5,317-920-2651,Beaux Arts Fair
+Contact,Contact Phone 6,317-920-2652,Beaux Arts Fair
+Contact,Contact Phone 7,317-920-2684,Beaux Arts Fair
+Contact,Contact Phone 8,317-923-1331,Beaux Arts Fair
+Contact,Contact Phone 9,317-955-2320,Beaux Arts Fair
 Comparable Fair,Name,Broad Ripple Art Fair,Broad Ripple Art Fair
 Comparable Fair,Org,Indianapolis Art Center (nonprofit),Broad Ripple Art Fair
 Comparable Fair,Location,"Broad Ripple Village, Indianapolis, IN",Broad Ripple Art Fair
@@ -586,7 +714,10 @@ Comparable Fair,Attendance,"20,000+",Broad Ripple Art Fair
 Comparable Fair,Features,"Same city as Penrod, neighborhood art fair, 50+ years",Broad Ripple Art Fair
 Comparable Fair,Tickets,Free admission,Broad Ripple Art Fair
 Comparable Fair,Website,indyartcenter.org,Broad Ripple Art Fair
-,,,,
+Contact,Contact Email,info@indyartcenter.org,Broad Ripple Art Fair
+Contact,Contact Email 2,osircy@indyartcenter.org,Broad Ripple Art Fair
+Contact,Contact Email 3,you@youremail.com,Broad Ripple Art Fair
+Contact,Contact Phone,317.255.2464,Broad Ripple Art Fair
 Comparable Fair,Name,Art on the Square,Art on the Square
 Comparable Fair,Org,Belleville Main Street (nonprofit),Art on the Square
 Comparable Fair,Location,"Downtown Belleville, IL",Art on the Square
@@ -597,7 +728,21 @@ Comparable Fair,Attendance,"25,000+",Art on the Square
 Comparable Fair,Features,"Historic courthouse square setting, food, live music",Art on the Square
 Comparable Fair,Tickets,Free admission,Art on the Square
 Comparable Fair,Website,artonthesquare.com,Art on the Square
-,,,,
+Contact,Contact Email,artists@artonthesquare.com,Art on the Square
+Contact,Contact Email 2,childrensarea@artonthesquare.com,Art on the Square
+Contact,Contact Email 3,competition@artonthesquare.com,Art on the Square
+Contact,Contact Email 4,director@artonthesquare.com,Art on the Square
+Contact,Contact Email 5,entertainment@artonthesquare.com,Art on the Square
+Contact,Contact Email 6,foodcourt@artonthesquare.com,Art on the Square
+Contact,Contact Email 7,pr@artonthesquare.com,Art on the Square
+Contact,Contact Email 8,prepurchase@artonthesquare.com,Art on the Square
+Contact,Contact Email 9,previewparty@artonthesquare.com,Art on the Square
+Contact,Contact Email 10,sponsors@artonthesquare.com,Art on the Square
+Contact,Contact Email 11,studentcomp@artonthesquare.com,Art on the Square
+Contact,Contact Email 12,volunteers@artonthesquare.com,Art on the Square
+Contact,Contact Email 13,xa0artists@artonthesquare.com,Art on the Square
+Contact,Contact Email 14,xa0director@artonthesquare.com,Art on the Square
+Contact,Contact Phone,618-967-9459,Art on the Square
 Comparable Fair,Name,Beverly Hills Art Show,Beverly Hills Art Show
 Comparable Fair,Org,City of Beverly Hills (municipal),Beverly Hills Art Show
 Comparable Fair,Location,"Beverly Gardens Park, Beverly Hills, CA",Beverly Hills Art Show
@@ -608,7 +753,9 @@ Comparable Fair,Attendance,"40,000+ per show",Beverly Hills Art Show
 Comparable Fair,Features,"53rd year, held in world-famous Beverly Gardens Park",Beverly Hills Art Show
 Comparable Fair,Tickets,Free admission,Beverly Hills Art Show
 Comparable Fair,Website,beverlyhills.org/artshow,Beverly Hills Art Show
-,,,,
+Contact,Contact Email,dbeesen@beverlyhills.org,Beverly Hills Art Show
+Contact,Contact Phone,310-285-1000,Beverly Hills Art Show
+Contact,Contact Phone 2,310-285-6830,Beverly Hills Art Show
 Comparable Fair,Name,La Quinta Arts Festival,La Quinta Arts Festival
 Comparable Fair,Org,La Quinta Arts Foundation (nonprofit),La Quinta Arts Festival
 Comparable Fair,Location,"La Quinta Civic Center Campus, La Quinta, CA",La Quinta Arts Festival
@@ -619,7 +766,7 @@ Comparable Fair,Attendance,"28,000+",La Quinta Arts Festival
 Comparable Fair,Features,Repeatedly ranked #1 fine art festival in US by various publications,La Quinta Arts Festival
 Comparable Fair,Tickets,Ticketed (~$20 GA),La Quinta Arts Festival
 Comparable Fair,Website,lqaf.com,La Quinta Arts Festival
-,,,,
+Contact,Contact Email,cdac@cadesertarts.org,La Quinta Arts Festival
 Comparable Fair,Name,Tempe Festival of the Arts,Tempe Festival of the Arts
 Comparable Fair,Org,Downtown Tempe Authority (nonprofit),Tempe Festival of the Arts
 Comparable Fair,Location,"Mill Avenue, Tempe, AZ",Tempe Festival of the Arts
@@ -630,7 +777,6 @@ Comparable Fair,Attendance,"200,000+",Tempe Festival of the Arts
 Comparable Fair,Features,"One of the largest in the Southwest, pedestrian-friendly Mill Ave",Tempe Festival of the Arts
 Comparable Fair,Tickets,Free admission,Tempe Festival of the Arts
 Comparable Fair,Website,tempefestivalofthearts.com,Tempe Festival of the Arts
-,,,,
 Comparable Fair,Name,Art Fair on the Square,Art Fair on the Square
 Comparable Fair,Org,Madison Museum of Contemporary Art (nonprofit),Art Fair on the Square
 Comparable Fair,Location,"Capitol Square, Madison, WI",Art Fair on the Square
@@ -641,7 +787,9 @@ Comparable Fair,Attendance,"200,000+",Art Fair on the Square
 Comparable Fair,Features,"Wisconsin's largest art fair, surrounding the State Capitol",Art Fair on the Square
 Comparable Fair,Tickets,Free admission,Art Fair on the Square
 Comparable Fair,Website,mmoca.org/events/art-fair-on-the-square,Art Fair on the Square
-,,,,
+Contact,Contact Email,info@mmoca.org,Art Fair on the Square
+Contact,Contact Phone,235-278-1024,Art Fair on the Square
+Contact,Contact Phone 2,608.257.0158,Art Fair on the Square
 Comparable Fair,Name,Gold Coast Art Fair,Gold Coast Art Fair
 Comparable Fair,Org,Amdur Productions (event producer),Gold Coast Art Fair
 Comparable Fair,Location,"Grant Park / Butler Field, Chicago, IL",Gold Coast Art Fair
@@ -652,7 +800,7 @@ Comparable Fair,Attendance,"75,000+",Gold Coast Art Fair
 Comparable Fair,Features,"Grant Park lakefront setting, one of Chicago's premier art fairs",Gold Coast Art Fair
 Comparable Fair,Tickets,Suggested $10 donation,Gold Coast Art Fair
 Comparable Fair,Website,amdurproductions.com,Gold Coast Art Fair
-,,,,
+Contact,Contact Phone,847-926-4300,Gold Coast Art Fair
 Comparable Fair,Name,Long Grove Art Fest,Long Grove Art Fest
 Comparable Fair,Org,Long Grove Arts & Music Council (nonprofit),Long Grove Art Fest
 Comparable Fair,Location,"Historic Downtown Long Grove, IL",Long Grove Art Fest
@@ -663,7 +811,6 @@ Comparable Fair,Attendance,"30,000+",Long Grove Art Fest
 Comparable Fair,Features,"Charming historic village setting, covered bridge backdrop",Long Grove Art Fest
 Comparable Fair,Tickets,Free admission,Long Grove Art Fest
 Comparable Fair,Website,longgrove.org,Long Grove Art Fest
-,,,,
 Comparable Fair,Name,Naperville Art Fair,Naperville Art Fair
 Comparable Fair,Org,Naperville Art League (nonprofit),Naperville Art Fair
 Comparable Fair,Location,"Naper Settlement, Naperville, IL",Naperville Art Fair
@@ -674,7 +821,7 @@ Comparable Fair,Attendance,"25,000+",Naperville Art Fair
 Comparable Fair,Features,"Historic outdoor museum village setting, family activities",Naperville Art Fair
 Comparable Fair,Tickets,Ticketed (~$10 GA),Naperville Art Fair
 Comparable Fair,Website,napervilleartleague.com,Naperville Art Fair
-,,,,
+Contact,Contact Phone,630-355-2530,Naperville Art Fair
 Comparable Fair,Name,King Mango Strut / Coconut Grove Gallery Walk,King Mango Strut / Coconut Grove Gallery Walk
 Comparable Fair,Org,Coconut Grove Gallery Walk (community),King Mango Strut / Coconut Grove Gallery Walk
 Comparable Fair,Location,"Coconut Grove, Miami, FL",King Mango Strut / Coconut Grove Gallery Walk
@@ -685,7 +832,7 @@ Comparable Fair,Attendance,"15,000+",King Mango Strut / Coconut Grove Gallery Wa
 Comparable Fair,Features,"Gallery walk format, different from the main Coconut Grove festival",King Mango Strut / Coconut Grove Gallery Walk
 Comparable Fair,Tickets,Free admission,King Mango Strut / Coconut Grove Gallery Walk
 Comparable Fair,Website,coconutgrovearts.com,King Mango Strut / Coconut Grove Gallery Walk
-,,,,
+Contact,Contact Email,Miamiartreviews@gmail.com,King Mango Strut / Coconut Grove Gallery Walk
 Comparable Fair,Name,Loring Park Art Festival,Loring Park Art Festival
 Comparable Fair,Org,Loring Park Art Festival Inc (nonprofit),Loring Park Art Festival
 Comparable Fair,Location,"Loring Park, Minneapolis, MN",Loring Park Art Festival
@@ -696,7 +843,11 @@ Comparable Fair,Attendance,"30,000+",Loring Park Art Festival
 Comparable Fair,Features,Urban park setting near Walker Art Center,Loring Park Art Festival
 Comparable Fair,Tickets,Free admission,Loring Park Art Festival
 Comparable Fair,Website,loringparkartfestival.com,Loring Park Art Festival
-,,,,
+Contact,Contact Email,heatherwmpls@gmail.com,Loring Park Art Festival
+Contact,Contact Email 2,info@loringparkartfestival.com,Loring Park Art Festival
+Contact,Contact Email 3,jackiesiewert@gmail.com,Loring Park Art Festival
+Contact,Contact Email 4,madson@sropro.com,Loring Park Art Festival
+Contact,Contact Email 5,saracollinsemail@gmail.com,Loring Park Art Festival
 Comparable Fair,Name,Art-A-Fair,Art-A-Fair
 Comparable Fair,Org,Art-A-Fair (nonprofit),Art-A-Fair
 Comparable Fair,Location,"Laguna Beach, CA",Art-A-Fair
@@ -707,7 +858,8 @@ Comparable Fair,Attendance,"50,000+ over season",Art-A-Fair
 Comparable Fair,Features,"Summer-long festival format, live art demonstrations",Art-A-Fair
 Comparable Fair,Tickets,Ticketed (~$9 GA),Art-A-Fair
 Comparable Fair,Website,art-a-fair.com,Art-A-Fair
-,,,,
+Contact,Contact Email,lagunaartafair@gmail.com,Art-A-Fair
+Contact,Contact Phone,949.494.4514,Art-A-Fair
 Comparable Fair,Name,Festival of Arts / Pageant of the Masters,Festival of Arts / Pageant of the Masters
 Comparable Fair,Org,Festival of Arts (nonprofit),Festival of Arts / Pageant of the Masters
 Comparable Fair,Location,"Irvine Bowl, Laguna Beach, CA",Festival of Arts / Pageant of the Masters
@@ -718,7 +870,9 @@ Comparable Fair,Attendance,"150,000+ over season",Festival of Arts / Pageant of 
 Comparable Fair,Features,"Iconic Pageant of the Masters living pictures, since 1932",Festival of Arts / Pageant of the Masters
 Comparable Fair,Tickets,"Ticketed (~$15 GA, Pageant $30–$250)",Festival of Arts / Pageant of the Masters
 Comparable Fair,Website,foapom.com,Festival of Arts / Pageant of the Masters
-,,,,
+Contact,Contact Phone,800-487-3378,Festival of Arts / Pageant of the Masters
+Contact,Contact Phone 2,949-494-1145,Festival of Arts / Pageant of the Masters
+Contact,Contact Phone 3,949-497-6582,Festival of Arts / Pageant of the Masters
 Comparable Fair,Name,Sawdust Art Festival,Sawdust Art Festival
 Comparable Fair,Org,Sawdust Art Festival (nonprofit),Sawdust Art Festival
 Comparable Fair,Location,"935 Laguna Canyon Rd, Laguna Beach, CA",Sawdust Art Festival
@@ -729,7 +883,10 @@ Comparable Fair,Attendance,"200,000+ over season",Sawdust Art Festival
 Comparable Fair,Features,"Artists must live/work in Laguna Beach, live demos, open-air booths",Sawdust Art Festival
 Comparable Fair,Tickets,Ticketed (~$12 GA),Sawdust Art Festival
 Comparable Fair,Website,sawdustartfestival.org,Sawdust Art Festival
-,,,,
+Contact,Contact Email,92651questions@sawdustartfestival.org,Sawdust Art Festival
+Contact,Contact Email 2,cdoty@sawdustartfestival.org,Sawdust Art Festival
+Contact,Contact Phone,949-494-3030,Sawdust Art Festival
+Contact,Contact Phone 2,949-494-7390,Sawdust Art Festival
 Comparable Fair,Name,Reston Fine Arts Festival,Reston Fine Arts Festival
 Comparable Fair,Org,Greater Reston Arts Center (nonprofit),Reston Fine Arts Festival
 Comparable Fair,Location,"Reston Town Center, Reston, VA",Reston Fine Arts Festival
@@ -740,7 +897,6 @@ Comparable Fair,Attendance,"30,000+",Reston Fine Arts Festival
 Comparable Fair,Features,"Town center pedestrian plaza setting, live music",Reston Fine Arts Festival
 Comparable Fair,Tickets,Free admission,Reston Fine Arts Festival
 Comparable Fair,Website,restonarts.org,Reston Fine Arts Festival
-,,,,
 Comparable Fair,Name,Bethesda Fine Arts Festival,Bethesda Fine Arts Festival
 Comparable Fair,Org,Bethesda Urban Partnership (nonprofit),Bethesda Fine Arts Festival
 Comparable Fair,Location,"Woodmont Triangle, Bethesda, MD",Bethesda Fine Arts Festival
@@ -751,7 +907,9 @@ Comparable Fair,Attendance,"25,000+",Bethesda Fine Arts Festival
 Comparable Fair,Features,"Upscale suburban setting, near DC",Bethesda Fine Arts Festival
 Comparable Fair,Tickets,Free admission,Bethesda Fine Arts Festival
 Comparable Fair,Website,bethesda.org,Bethesda Fine Arts Festival
-,,,,
+Contact,Contact Email,info@bethesda.org,Bethesda Fine Arts Festival
+Contact,Contact Phone,(301) 215-6660,Bethesda Fine Arts Festival
+Contact,Contact Phone 2,301-215-6664,Bethesda Fine Arts Festival
 Comparable Fair,Name,Alexandria King Street Art Festival,Alexandria King Street Art Festival
 Comparable Fair,Org,Howard Alan Events (producer),Alexandria King Street Art Festival
 Comparable Fair,Location,"King Street, Old Town Alexandria, VA",Alexandria King Street Art Festival
@@ -762,7 +920,9 @@ Comparable Fair,Attendance,"50,000+",Alexandria King Street Art Festival
 Comparable Fair,Features,"Historic Old Town cobblestone streets, near Potomac River",Alexandria King Street Art Festival
 Comparable Fair,Tickets,Free admission,Alexandria King Street Art Festival
 Comparable Fair,Website,artfestival.com,Alexandria King Street Art Festival
-,,,,
+Contact,Contact Email,info@artfestival.com,Alexandria King Street Art Festival
+Contact,Contact Phone,561-746-6528,Alexandria King Street Art Festival
+Contact,Contact Phone 2,561-746-6615,Alexandria King Street Art Festival
 Comparable Fair,Name,Kravis Center Art Festival,Kravis Center Art Festival
 Comparable Fair,Org,Howard Alan Events (producer),Kravis Center Art Festival
 Comparable Fair,Location,"Kravis Center, West Palm Beach, FL",Kravis Center Art Festival
@@ -773,7 +933,9 @@ Comparable Fair,Attendance,"40,000+",Kravis Center Art Festival
 Comparable Fair,Features,Adjacent to world-class performing arts center,Kravis Center Art Festival
 Comparable Fair,Tickets,Free admission,Kravis Center Art Festival
 Comparable Fair,Website,artfestival.com,Kravis Center Art Festival
-,,,,
+Contact,Contact Email,info@artfestival.com,Kravis Center Art Festival
+Contact,Contact Phone,561-746-6528,Kravis Center Art Festival
+Contact,Contact Phone 2,561-746-6615,Kravis Center Art Festival
 Comparable Fair,Name,Fiesta Arts Fair,Fiesta Arts Fair
 Comparable Fair,Org,Southwest School of Art (nonprofit),Fiesta Arts Fair
 Comparable Fair,Location,"Southwest School of Art Campus, San Antonio, TX",Fiesta Arts Fair
@@ -784,7 +946,10 @@ Comparable Fair,Attendance,"30,000+",Fiesta Arts Fair
 Comparable Fair,Features,"Part of Fiesta San Antonio citywide celebration, art school campus",Fiesta Arts Fair
 Comparable Fair,Tickets,Ticketed (~$10 GA),Fiesta Arts Fair
 Comparable Fair,Website,swschool.org,Fiesta Arts Fair
-,,,,
+Contact,Contact Email,art@utsa.edu,Fiesta Arts Fair
+Contact,Contact Email 2,COLFAstudents@utsa.edu,Fiesta Arts Fair
+Contact,Contact Phone,(210) 458-4352,Fiesta Arts Fair
+Contact,Contact Phone 2,210-458-4011,Fiesta Arts Fair
 Comparable Fair,Name,Palmer Park Art Fair,Palmer Park Art Fair
 Comparable Fair,Org,Palmer Park Art Fair (community nonprofit),Palmer Park Art Fair
 Comparable Fair,Location,"Palmer Park, Detroit, MI",Palmer Park Art Fair
@@ -795,7 +960,7 @@ Comparable Fair,Attendance,"15,000+",Palmer Park Art Fair
 Comparable Fair,Features,"Urban park setting, grassroots community art fair",Palmer Park Art Fair
 Comparable Fair,Tickets,Free admission,Palmer Park Art Fair
 Comparable Fair,Website,palmerparkartfair.com,Palmer Park Art Fair
-,,,,
+Contact,Contact Email,Mark@Integrityshows.com,Palmer Park Art Fair
 Comparable Fair,Name,Crystal Bridges Museum Art Fair,Crystal Bridges Museum Art Fair
 Comparable Fair,Org,Crystal Bridges Museum of American Art (nonprofit),Crystal Bridges Museum Art Fair
 Comparable Fair,Location,"Heartland Whole Health Institute, Bentonville, AR",Crystal Bridges Museum Art Fair
@@ -806,7 +971,21 @@ Comparable Fair,Attendance,"20,000+",Crystal Bridges Museum Art Fair
 Comparable Fair,Features,Connected to world-class museum (Walmart family funded),Crystal Bridges Museum Art Fair
 Comparable Fair,Tickets,Free admission,Crystal Bridges Museum Art Fair
 Comparable Fair,Website,crystalbridges.org,Crystal Bridges Museum Art Fair
-,,,,
+Contact,Contact Email,accessibility@crystalbridges.org,Crystal Bridges Museum Art Fair
+Contact,Contact Email 2,art@crystalbridges.org,Crystal Bridges Museum Art Fair
+Contact,Contact Email 3,careers@crystalbridges.org,Crystal Bridges Museum Art Fair
+Contact,Contact Email 4,education@crystalbridges.org,Crystal Bridges Museum Art Fair
+Contact,Contact Email 5,give@crystalbridges.org,Crystal Bridges Museum Art Fair
+Contact,Contact Email 6,grouptours@crystalbridges.org,Crystal Bridges Museum Art Fair
+Contact,Contact Email 7,info@crystalbridges.org,Crystal Bridges Museum Art Fair
+Contact,Contact Email 8,library@crystalbridges.org,Crystal Bridges Museum Art Fair
+Contact,Contact Email 9,media@crystalbridges.org,Crystal Bridges Museum Art Fair
+Contact,Contact Email 10,membership@crystalbridges.org,Crystal Bridges Museum Art Fair
+Contact,Contact Email 11,reproductions@crystalbridges.org,Crystal Bridges Museum Art Fair
+Contact,Contact Email 12,research@crystalbridges.org,Crystal Bridges Museum Art Fair
+Contact,Contact Email 13,specialevents@crystalbridges.org,Crystal Bridges Museum Art Fair
+Contact,Contact Email 14,volunteer@crystalbridges.org,Crystal Bridges Museum Art Fair
+Contact,Contact Phone,(479) 418-5700,Crystal Bridges Museum Art Fair
 Comparable Fair,Name,Centerfest Arts Festival,Centerfest Arts Festival
 Comparable Fair,Org,Durham Arts Council (nonprofit),Centerfest Arts Festival
 Comparable Fair,Location,"Downtown Durham, NC",Centerfest Arts Festival
@@ -817,7 +996,8 @@ Comparable Fair,Attendance,"30,000+",Centerfest Arts Festival
 Comparable Fair,Features,"Durham's signature arts event, live music on multiple stages",Centerfest Arts Festival
 Comparable Fair,Tickets,Free admission,Centerfest Arts Festival
 Comparable Fair,Website,centerfest.durhamarts.org,Centerfest Arts Festival
-,,,,
+Contact,Contact Email,cscott@durhamarts.org,Centerfest Arts Festival
+Contact,Contact Phone,919.560.2787,Centerfest Arts Festival
 Comparable Fair,Name,Wausau Festival of Arts,Wausau Festival of Arts
 Comparable Fair,Org,Wausau Festival of Arts Inc (nonprofit),Wausau Festival of Arts
 Comparable Fair,Location,"400 Block, Downtown Wausau, WI",Wausau Festival of Arts
@@ -828,7 +1008,7 @@ Comparable Fair,Attendance,"25,000+",Wausau Festival of Arts
 Comparable Fair,Features,"Small-city charm, 60+ year tradition, strong community event",Wausau Festival of Arts
 Comparable Fair,Tickets,Free admission,Wausau Festival of Arts
 Comparable Fair,Website,wausaufoa.org,Wausau Festival of Arts
-,,,,
+Contact,Contact Email,info@wausaufoa.org,Wausau Festival of Arts
 Comparable Fair,Name,Edina Art Fair,Edina Art Fair
 Comparable Fair,Org,City of Edina / 50th & France Business Association,Edina Art Fair
 Comparable Fair,Location,"50th & France, Edina, MN",Edina Art Fair
@@ -839,7 +1019,7 @@ Comparable Fair,Attendance,"100,000+",Edina Art Fair
 Comparable Fair,Features,One of the highest-rated fairs in the Midwest,Edina Art Fair
 Comparable Fair,Tickets,Free admission,Edina Art Fair
 Comparable Fair,Website,edinaartfair.com,Edina Art Fair
-,,,,
+Contact,Contact Email,director@50thandfrance.com,Edina Art Fair
 Comparable Fair,Name,Cain Park Arts Festival,Cain Park Arts Festival
 Comparable Fair,Org,Cain Park (City of Cleveland Heights),Cain Park Arts Festival
 Comparable Fair,Location,"Cain Park, Cleveland Heights, OH",Cain Park Arts Festival
@@ -850,7 +1030,8 @@ Comparable Fair,Attendance,"60,000+",Cain Park Arts Festival
 Comparable Fair,Features,"Amphitheater concerts included, park setting",Cain Park Arts Festival
 Comparable Fair,Tickets,Ticketed (~$5 GA),Cain Park Arts Festival
 Comparable Fair,Website,cainpark.com,Cain Park Arts Festival
-,,,,
+Contact,Contact Email,cainpark@clevelandheights.com,Cain Park Arts Festival
+Contact,Contact Phone,216-371-3000,Cain Park Arts Festival
 Comparable Fair,Name,Crocker Park Fine Art Fair,Crocker Park Fine Art Fair
 Comparable Fair,Org,Amdur Productions (event producer),Crocker Park Fine Art Fair
 Comparable Fair,Location,"Crocker Park, Westlake, OH",Crocker Park Fine Art Fair
@@ -861,7 +1042,7 @@ Comparable Fair,Attendance,"30,000+",Crocker Park Fine Art Fair
 Comparable Fair,Features,Upscale mixed-use development setting,Crocker Park Fine Art Fair
 Comparable Fair,Tickets,Free admission,Crocker Park Fine Art Fair
 Comparable Fair,Website,amdurproductions.com,Crocker Park Fine Art Fair
-,,,,
+Contact,Contact Phone,847-926-4300,Crocker Park Fine Art Fair
 Comparable Fair,Name,Wells Street Art Festival,Wells Street Art Festival
 Comparable Fair,Org,Old Town Merchants & Residents Association,Wells Street Art Festival
 Comparable Fair,Location,"Wells Street, Old Town, Chicago, IL",Wells Street Art Festival
@@ -872,7 +1053,8 @@ Comparable Fair,Attendance,"60,000+",Wells Street Art Festival
 Comparable Fair,Features,"Live music on 2 stages, food, Lincoln Park area",Wells Street Art Festival
 Comparable Fair,Tickets,Suggested donation,Wells Street Art Festival
 Comparable Fair,Website,oldtownchicago.org,Wells Street Art Festival
-,,,,
+Contact,Contact Email,otmra@oldtownchicago.org,Wells Street Art Festival
+Contact,Contact Phone,312.951.6106,Wells Street Art Festival
 Comparable Fair,Name,Port Clinton Art Festival,Port Clinton Art Festival
 Comparable Fair,Org,Amdur Productions (event producer),Port Clinton Art Festival
 Comparable Fair,Location,"Green Bay Road, Highland Park, IL",Port Clinton Art Festival
@@ -883,7 +1065,7 @@ Comparable Fair,Attendance,"75,000+",Port Clinton Art Festival
 Comparable Fair,Features,Consistently ranked among top art festivals nationally,Port Clinton Art Festival
 Comparable Fair,Tickets,Free admission,Port Clinton Art Festival
 Comparable Fair,Website,amdurproductions.com,Port Clinton Art Festival
-,,,,
+Contact,Contact Phone,847-926-4300,Port Clinton Art Festival
 Comparable Fair,Name,Artscape,Artscape
 Comparable Fair,Org,Baltimore Office of Promotion & The Arts (nonprofit),Artscape
 Comparable Fair,Location,"Mount Royal Avenue, Baltimore, MD",Artscape
@@ -894,7 +1076,8 @@ Comparable Fair,Attendance,"350,000+",Artscape
 Comparable Fair,Features,"America's largest free arts festival, music, film, performance art",Artscape
 Comparable Fair,Tickets,Free admission,Artscape
 Comparable Fair,Website,artscape.org,Artscape
-,,,,
+Contact,Contact Email,BOPACommunications@promotionandarts.org,Artscape
+Contact,Contact Phone,410-752-8632,Artscape
 Comparable Fair,Name,Dogwood Festival,Dogwood Festival
 Comparable Fair,Org,Dogwood Arts (nonprofit),Dogwood Festival
 Comparable Fair,Location,"Market Square, Knoxville, TN",Dogwood Festival
@@ -905,7 +1088,9 @@ Comparable Fair,Attendance,"80,000+",Dogwood Festival
 Comparable Fair,Features,Coincides with citywide dogwood trail celebrations,Dogwood Festival
 Comparable Fair,Tickets,Free admission,Dogwood Festival
 Comparable Fair,Website,dogwoodarts.com,Dogwood Festival
-,,,,
+Contact,Contact Email,INFO@DOGWOODARTS.COM,Dogwood Festival
+Contact,Contact Email 2,shannon@dogwoodarts.com,Dogwood Festival
+Contact,Contact Phone,(865) 637-4561,Dogwood Festival
 Comparable Fair,Name,Spoleto Festival USA,Spoleto Festival USA
 Comparable Fair,Org,Spoleto Festival USA (nonprofit),Spoleto Festival USA
 Comparable Fair,Location,"Various venues, Charleston, SC",Spoleto Festival USA
@@ -916,7 +1101,8 @@ Comparable Fair,Attendance,"75,000+",Spoleto Festival USA
 Comparable Fair,Features,"Premier performing arts festival with visual art component, international acts",Spoleto Festival USA
 Comparable Fair,Tickets,Ticketed (varies by event),Spoleto Festival USA
 Comparable Fair,Website,spoletousa.org,Spoleto Festival USA
-,,,,
+Contact,Contact Phone,(843) 579-3100,Spoleto Festival USA
+Contact,Contact Phone 2,(843) 722-2764,Spoleto Festival USA
 Comparable Fair,Name,Sarasota Fine Art Festival,Sarasota Fine Art Festival
 Comparable Fair,Org,Howard Alan Events (producer),Sarasota Fine Art Festival
 Comparable Fair,Location,"Downtown Sarasota, FL",Sarasota Fine Art Festival
@@ -927,7 +1113,9 @@ Comparable Fair,Attendance,"50,000+",Sarasota Fine Art Festival
 Comparable Fair,Features,"Gulf Coast cultural hub, fine art focus",Sarasota Fine Art Festival
 Comparable Fair,Tickets,Free admission,Sarasota Fine Art Festival
 Comparable Fair,Website,artfestival.com,Sarasota Fine Art Festival
-,,,,
+Contact,Contact Email,info@artfestival.com,Sarasota Fine Art Festival
+Contact,Contact Phone,561-746-6528,Sarasota Fine Art Festival
+Contact,Contact Phone 2,561-746-6615,Sarasota Fine Art Festival
 Comparable Fair,Name,Allentown Art Festival,Allentown Art Festival
 Comparable Fair,Org,Allentown Village Society (nonprofit),Allentown Art Festival
 Comparable Fair,Location,"Allentown, Buffalo, NY",Allentown Art Festival
@@ -938,7 +1126,10 @@ Comparable Fair,Attendance,"300,000+",Allentown Art Festival
 Comparable Fair,Features,"One of the largest art festivals in NY, 67th annual (2026), historic neighborhood",Allentown Art Festival
 Comparable Fair,Tickets,Free admission,Allentown Art Festival
 Comparable Fair,Website,allentownartfestival.com,Allentown Art Festival
-,,,,
+Contact,Contact Email,info@allentownartfestival.com,Allentown Art Festival
+Contact,Contact Email 2,rita@allentownartfestival.com,Allentown Art Festival
+Contact,Contact Phone,716-768-2000,Allentown Art Festival
+Contact,Contact Phone 2,716-881-4269,Allentown Art Festival
 Comparable Fair,Name,Chattanooga Riverfront Art Festival,Chattanooga Riverfront Art Festival
 Comparable Fair,Org,Association for Visual Arts (nonprofit),Chattanooga Riverfront Art Festival
 Comparable Fair,Location,"Ross's Landing, Chattanooga, TN",Chattanooga Riverfront Art Festival
@@ -949,7 +1140,8 @@ Comparable Fair,Attendance,"25,000+",Chattanooga Riverfront Art Festival
 Comparable Fair,Features,Riverfront setting with Tennessee River views,Chattanooga Riverfront Art Festival
 Comparable Fair,Tickets,Free admission,Chattanooga Riverfront Art Festival
 Comparable Fair,Website,avarts.org,Chattanooga Riverfront Art Festival
-,,,,
+Contact,Contact Email,hello@avarts.org,Chattanooga Riverfront Art Festival
+Contact,Contact Phone,(423) 265-4282,Chattanooga Riverfront Art Festival
 Comparable Fair,Name,Nashville Cherry Blossom Festival,Nashville Cherry Blossom Festival
 Comparable Fair,Org,Nashville Cherry Blossom Festival (nonprofit),Nashville Cherry Blossom Festival
 Comparable Fair,Location,"Public Square Park, Nashville, TN",Nashville Cherry Blossom Festival
@@ -960,7 +1152,6 @@ Comparable Fair,Attendance,"40,000+",Nashville Cherry Blossom Festival
 Comparable Fair,Features,"Art, music, cultural festival celebrating cherry blossoms",Nashville Cherry Blossom Festival
 Comparable Fair,Tickets,Free admission,Nashville Cherry Blossom Festival
 Comparable Fair,Website,nashvillecherryblossomfestival.org,Nashville Cherry Blossom Festival
-,,,,
 Comparable Fair,Name,Ithaca Festival,Ithaca Festival
 Comparable Fair,Org,Ithaca Festival Inc (nonprofit),Ithaca Festival
 Comparable Fair,Location,"Ithaca Commons, Ithaca, NY",Ithaca Festival
@@ -971,7 +1162,7 @@ Comparable Fair,Attendance,"20,000+",Ithaca Festival
 Comparable Fair,Features,"Arts, music, and community celebration in college town",Ithaca Festival
 Comparable Fair,Tickets,Free admission,Ithaca Festival
 Comparable Fair,Website,ithacafestival.org,Ithaca Festival
-,,,,
+Contact,Contact Email,Ithacafestival@IthacaFestival.Org,Ithaca Festival
 Comparable Fair,Name,Charlevoix Waterfront Art Fair,Charlevoix Waterfront Art Fair
 Comparable Fair,Org,Charlevoix Waterfront Art Fair Committee (nonprofit),Charlevoix Waterfront Art Fair
 Comparable Fair,Location,"East Park, Charlevoix, MI",Charlevoix Waterfront Art Fair
@@ -982,7 +1173,8 @@ Comparable Fair,Attendance,"30,000+",Charlevoix Waterfront Art Fair
 Comparable Fair,Features,"Scenic lakefront setting, northern Michigan charm",Charlevoix Waterfront Art Fair
 Comparable Fair,Tickets,Free admission,Charlevoix Waterfront Art Fair
 Comparable Fair,Website,charlevoixwaterfrontartfair.org,Charlevoix Waterfront Art Fair
-,,,,
+Contact,Contact Email,cwaf14@gmail.com,Charlevoix Waterfront Art Fair
+Contact,Contact Phone,231.547.2675,Charlevoix Waterfront Art Fair
 Comparable Fair,Name,SOMI Art Fest,SOMI Art Fest
 Comparable Fair,Org,SOMI Art Fest (community nonprofit),SOMI Art Fest
 Comparable Fair,Location,"South Miami, FL",SOMI Art Fest
@@ -993,7 +1185,8 @@ Comparable Fair,Attendance,"15,000+",SOMI Art Fest
 Comparable Fair,Features,"Sunset Drive location, 41st annual",SOMI Art Fest
 Comparable Fair,Tickets,Free admission,SOMI Art Fest
 Comparable Fair,Website,somiartfest.org,SOMI Art Fest
-,,,,
+Contact,Contact Email,info@somiartfest.org,SOMI Art Fest
+Contact,Contact Phone,305-769-5977,SOMI Art Fest
 Comparable Fair,Name,Key West Art & Craft Festival,Key West Art & Craft Festival
 Comparable Fair,Org,Key West Art Center (nonprofit),Key West Art & Craft Festival
 Comparable Fair,Location,"Truman Waterfront Park, Key West, FL",Key West Art & Craft Festival
@@ -1004,7 +1197,7 @@ Comparable Fair,Attendance,"10,000+",Key West Art & Craft Festival
 Comparable Fair,Features,"Waterfront setting, island atmosphere, 61st annual",Key West Art & Craft Festival
 Comparable Fair,Tickets,Free admission,Key West Art & Craft Festival
 Comparable Fair,Website,keywestartcenter.com,Key West Art & Craft Festival
-,,,,
+Contact,Contact Phone,305 294 1241,Key West Art & Craft Festival
 Comparable Fair,Name,Rockbrook Village Art Fair,Rockbrook Village Art Fair
 Comparable Fair,Org,Rockbrook Village (community),Rockbrook Village Art Fair
 Comparable Fair,Location,"Rockbrook Village, Omaha, NE",Rockbrook Village Art Fair
@@ -1015,7 +1208,8 @@ Comparable Fair,Attendance,"20,000+",Rockbrook Village Art Fair
 Comparable Fair,Features,"Upscale shopping village setting, Midwest charm",Rockbrook Village Art Fair
 Comparable Fair,Tickets,Free admission,Rockbrook Village Art Fair
 Comparable Fair,Website,rockbrookvillage.com,Rockbrook Village Art Fair
-,,,,
+Contact,Contact Email,rockbrookvillage@gmail.com,Rockbrook Village Art Fair
+Contact,Contact Phone,(402) 390-0890,Rockbrook Village Art Fair
 Comparable Fair,Name,Art by the Falls,Art by the Falls
 Comparable Fair,Org,Valley Art Center (nonprofit),Art by the Falls
 Comparable Fair,Location,"Chagrin Falls, OH",Art by the Falls
@@ -1026,7 +1220,8 @@ Comparable Fair,Attendance,"20,000+",Art by the Falls
 Comparable Fair,Features,"Picturesque small-town setting with waterfall, 42nd annual",Art by the Falls
 Comparable Fair,Tickets,Free admission,Art by the Falls
 Comparable Fair,Website,valleyartcenter.org,Art by the Falls
-,,,,
+Contact,Contact Email,Office@valleyartcenter.org,Art by the Falls
+Contact,Contact Phone,(440) 247-7507,Art by the Falls
 Comparable Fair,Name,Webster Arts Fair,Webster Arts Fair
 Comparable Fair,Org,Webster Arts (nonprofit),Webster Arts Fair
 Comparable Fair,Location,"Eden Seminary, Webster Groves, MO",Webster Arts Fair
@@ -1037,7 +1232,7 @@ Comparable Fair,Attendance,"15,000+",Webster Arts Fair
 Comparable Fair,Features,"Seminary campus setting, local food and wine",Webster Arts Fair
 Comparable Fair,Tickets,Free admission,Webster Arts Fair
 Comparable Fair,Website,webster-arts.org,Webster Arts Fair
-,,,,
+Contact,Contact Phone,(314)-279-1800,Webster Arts Fair
 Comparable Fair,Name,Milwaukee Lakefront Festival of Art,Milwaukee Lakefront Festival of Art
 Comparable Fair,Org,Friends of Art at MAM (nonprofit),Milwaukee Lakefront Festival of Art
 Comparable Fair,Location,"Milwaukee Art Museum lakefront, WI",Milwaukee Lakefront Festival of Art
@@ -1048,7 +1243,6 @@ Comparable Fair,Attendance,"35,000+",Milwaukee Lakefront Festival of Art
 Comparable Fair,Features,Calatrava-designed museum backdrop on Lake Michigan,Milwaukee Lakefront Festival of Art
 Comparable Fair,Tickets,Ticketed (~$19 GA),Milwaukee Lakefront Festival of Art
 Comparable Fair,Website,lfoa.mam.org,Milwaukee Lakefront Festival of Art
-,,,,
 Comparable Fair,Name,Summerfest Arts Faire,Summerfest Arts Faire
 Comparable Fair,Org,Summerfest Arts Faire (nonprofit),Summerfest Arts Faire
 Comparable Fair,Location,"Cache County Fairgrounds, Logan, UT",Summerfest Arts Faire
@@ -1059,7 +1253,8 @@ Comparable Fair,Attendance,"30,000+",Summerfest Arts Faire
 Comparable Fair,Features,"Mountain valley setting, Cache Valley community event",Summerfest Arts Faire
 Comparable Fair,Tickets,Ticketed,Summerfest Arts Faire
 Comparable Fair,Website,logansummerfest.org,Summerfest Arts Faire
-,,,,
+Contact,Contact Email,info@logansummerfest.org,Summerfest Arts Faire
+Contact,Contact Phone,(435) 213-3858,Summerfest Arts Faire
 Comparable Fair,Name,Philadelphia Museum of Art Craft Show,Philadelphia Museum of Art Craft Show
 Comparable Fair,Org,Women's Committee / Philadelphia Museum of Art (nonprofit),Philadelphia Museum of Art Craft Show
 Comparable Fair,Location,"Pennsylvania Convention Center, Philadelphia, PA",Philadelphia Museum of Art Craft Show
@@ -1070,7 +1265,8 @@ Comparable Fair,Attendance,"15,000+",Philadelphia Museum of Art Craft Show
 Comparable Fair,Features,"50th annual, premier indoor craft show, high-end fine craft",Philadelphia Museum of Art Craft Show
 Comparable Fair,Tickets,Ticketed (~$20 GA),Philadelphia Museum of Art Craft Show
 Comparable Fair,Website,craftcouncil.org,Philadelphia Museum of Art Craft Show
-,,,,
+Contact,Contact Email,hello@craftcouncil.org,Philadelphia Museum of Art Craft Show
+Contact,Contact Phone,(612) 206-3100,Philadelphia Museum of Art Craft Show
 Comparable Fair,Name,Ballyhoo Festival of Fine Art & Culture,Ballyhoo Festival of Fine Art & Culture
 Comparable Fair,Org,Ballyhoo Festival (nonprofit),Ballyhoo Festival of Fine Art & Culture
 Comparable Fair,Location,"Gulf State Park, Gulf Shores, AL",Ballyhoo Festival of Fine Art & Culture
@@ -1081,7 +1277,7 @@ Comparable Fair,Attendance,"15,000+",Ballyhoo Festival of Fine Art & Culture
 Comparable Fair,Features,"State park setting, Gulf Coast beach community",Ballyhoo Festival of Fine Art & Culture
 Comparable Fair,Tickets,Free admission,Ballyhoo Festival of Fine Art & Culture
 Comparable Fair,Website,ballyhoofestival.com,Ballyhoo Festival of Fine Art & Culture
-,,,,
+Contact,Contact Email,ballyhoofestival@gmail.com,Ballyhoo Festival of Fine Art & Culture
 Comparable Fair,Name,Spring Festival on Ponce,Spring Festival on Ponce
 Comparable Fair,Org,Atlanta Foundation for Public Spaces (nonprofit),Spring Festival on Ponce
 Comparable Fair,Location,"Ponce de Leon Avenue, Atlanta, GA",Spring Festival on Ponce
@@ -1092,7 +1288,6 @@ Comparable Fair,Attendance,"25,000+",Spring Festival on Ponce
 Comparable Fair,Features,"Historic Olmsted Parks setting, 15th annual",Spring Festival on Ponce
 Comparable Fair,Tickets,Free admission,Spring Festival on Ponce
 Comparable Fair,Website,festivalsonponce.com,Spring Festival on Ponce
-,,,,
 Comparable Fair,Name,Steamboat Creates Art in the Park,Steamboat Creates Art in the Park
 Comparable Fair,Org,Steamboat Creates (nonprofit),Steamboat Creates Art in the Park
 Comparable Fair,Location,"West Lincoln Park, Steamboat Springs, CO",Steamboat Creates Art in the Park
@@ -1103,7 +1298,8 @@ Comparable Fair,Attendance,"15,000+",Steamboat Creates Art in the Park
 Comparable Fair,Features,"Mountain resort town setting, ski town summer vibes",Steamboat Creates Art in the Park
 Comparable Fair,Tickets,Free admission,Steamboat Creates Art in the Park
 Comparable Fair,Website,steamboatcreates.org,Steamboat Creates Art in the Park
-,,,,
+Contact,Contact Email,info@steamboatcreates.org,Steamboat Creates Art in the Park
+Contact,Contact Phone,970.879.9008,Steamboat Creates Art in the Park
 Comparable Fair,Name,Wyandotte Street Art Fair,Wyandotte Street Art Fair
 Comparable Fair,Org,City of Wyandotte (municipal),Wyandotte Street Art Fair
 Comparable Fair,Location,"Biddle Avenue, Wyandotte, MI",Wyandotte Street Art Fair
@@ -1114,7 +1310,6 @@ Comparable Fair,Attendance,"200,000+",Wyandotte Street Art Fair
 Comparable Fair,Features,"One of Michigan's largest street art fairs, 4-day format",Wyandotte Street Art Fair
 Comparable Fair,Tickets,Free admission,Wyandotte Street Art Fair
 Comparable Fair,Website,wyandottestreetartfair.org,Wyandotte Street Art Fair
-,,,,
 Comparable Fair,Name,Peoria Art Guild Fine Art Fair,Peoria Art Guild Fine Art Fair
 Comparable Fair,Org,Peoria Art Guild (nonprofit),Peoria Art Guild Fine Art Fair
 Comparable Fair,Location,"Peoria Riverfront, Peoria, IL",Peoria Art Guild Fine Art Fair
@@ -1125,7 +1320,8 @@ Comparable Fair,Attendance,"30,000+",Peoria Art Guild Fine Art Fair
 Comparable Fair,Features,"Riverfront setting, central Illinois, 60+ year tradition",Peoria Art Guild Fine Art Fair
 Comparable Fair,Tickets,Free admission,Peoria Art Guild Fine Art Fair
 Comparable Fair,Website,peoriaartguild.org,Peoria Art Guild Fine Art Fair
-,,,,
+Contact,Contact Email,info@peoriaartguild.org,Peoria Art Guild Fine Art Fair
+Contact,Contact Phone,728-224-2391,Peoria Art Guild Fine Art Fair
 Comparable Fair,Name,Ann Arbor Summer Art Fair,Ann Arbor Summer Art Fair
 Comparable Fair,Org,State Street Area Art Fair (nonprofit),Ann Arbor Summer Art Fair
 Comparable Fair,Location,"State Street, Ann Arbor, MI",Ann Arbor Summer Art Fair
@@ -1136,7 +1332,14 @@ Comparable Fair,Attendance,"Part of 500,000+ combined",Ann Arbor Summer Art Fair
 Comparable Fair,Features,One of 3 concurrent fairs making up the Ann Arbor Art Fair mega-event,Ann Arbor Summer Art Fair
 Comparable Fair,Tickets,Free admission,Ann Arbor Summer Art Fair
 Comparable Fair,Website,theannarborartfair.com,Ann Arbor Summer Art Fair
-,,,,
+Contact,Contact Email,Akline@ArtFair.org,Ann Arbor Summer Art Fair
+Contact,Contact Email 2,Allison@TheGuild.org,Ann Arbor Summer Art Fair
+Contact,Contact Email 3,ArtFair@StateStreetDistrict.org,Ann Arbor Summer Art Fair
+Contact,Contact Email 4,Info@TheGuild.org,Ann Arbor Summer Art Fair
+Contact,Contact Phone,313.462.0808,Ann Arbor Summer Art Fair
+Contact,Contact Phone 2,734.646.1500,Ann Arbor Summer Art Fair
+Contact,Contact Phone 3,734.662.3382,Ann Arbor Summer Art Fair
+Contact,Contact Phone 4,734.994.5260,Ann Arbor Summer Art Fair
 Comparable Fair,Name,Manayunk Arts Festival,Manayunk Arts Festival
 Comparable Fair,Org,Manayunk Development Corp (nonprofit),Manayunk Arts Festival
 Comparable Fair,Location,"Main Street, Manayunk (Philadelphia), PA",Manayunk Arts Festival
@@ -1147,3 +1350,5 @@ Comparable Fair,Attendance,"200,000+",Manayunk Arts Festival
 Comparable Fair,Features,"Canal towpath and Main Street setting, one of the largest in PA",Manayunk Arts Festival
 Comparable Fair,Tickets,Free admission,Manayunk Arts Festival
 Comparable Fair,Website,manayunk.com,Manayunk Arts Festival
+Contact,Contact Email,Info@manayunk.org,Manayunk Arts Festival
+Contact,Contact Phone,(215) 482-9565,Manayunk Arts Festival
